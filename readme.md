@@ -7,7 +7,7 @@
 안녕하세요, 정효담입니다.
 
 ## 소속
-Sophomore majoring in Information and Communication Engineering at Yeungnam University
+Sophomore majoring in Information & Communication Engineering at Yeungnam University
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HYODAM-JUNG/HYODAM-JUNG/output/pacman-contribution-graph-dark.svg">
