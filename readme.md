@@ -7,9 +7,6 @@
 안녕하세요, 정효담입니다.
 
 ## 소속
-
-## 링크
-
-## 
+영남대학교 정보통신공학과
 
 ![Luvcong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luvcong&count_private=true)
